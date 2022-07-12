@@ -1,0 +1,26 @@
+.search-bar{
+    display: block;
+}
+
+.video-thumbnail{
+    width: 300px; 
+}
+
+.video-title{
+
+}
+
+.video-author{
+
+}
+
+.video-stats{
+
+}
+
+.video-preview{
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+}   
